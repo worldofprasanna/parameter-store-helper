@@ -1,6 +1,7 @@
 # parameter-store-helper
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Build Status](https://travis-ci.com/worldofprasanna/parameter-store-helper.svg?branch=master)](https://travis-ci.com/worldofprasanna/parameter-store-helper)
 
 > Commandline application to search and view AWS parameter store
 
